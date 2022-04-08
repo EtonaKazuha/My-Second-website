@@ -1,4 +1,4 @@
-My second Website
+My second website
 
 File creation date:
 January 21, 2021
